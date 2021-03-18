@@ -1,4 +1,4 @@
-# Cool Templates
+# Awesome Templates
 
 ## What is this? 
 
