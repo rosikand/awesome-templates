@@ -8,3 +8,4 @@
 
 ## Resume
 - [Sourabh Bajaj's Resume](https://github.com/sb2nov/resume)
+- [Xiaohan Zou](https://zxh.io/files/cv/brief/en.pdf)'s CV/resume inspired by https://github.com/billryan/resume ([Overleaf](https://www.overleaf.com/latex/templates/bill-ryans-elegant-latex-resume/xcqmhktmzmsw)) 
