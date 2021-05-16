@@ -1,6 +1,6 @@
 # LaTeX Paper Templates  
 
-- NeurIPS
+- NeurIPS (starter [src](https://github.com/rosikand/awesome-templates/blob/main/files/neurips-starter-src.zip))
 - [ICLR](https://www.overleaf.com/latex/templates/template-for-iclr-2021-conference-submission/mmpfhsxmqdkp) 
 - IEEE
 - For humanities: [Princeton's Standard Document](https://www.overleaf.com/latex/templates/standard-document/xhwhmfdcxhhj)
