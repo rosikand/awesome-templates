@@ -12,3 +12,4 @@ I plan to use this space to jot down useful LaTeX commands, tips, tricks, and mo
 - [Pandoc](https://pandoc.org/index.html) is a Markdown to LaTeX converter (that doesn't really quite work for my needs). Interestingly, it uses abstract syntax trees to 'parse' the input instead of making a translator. Read more [here](https://pandoc.org/scripting-1.12.html). 
   - The command for any file type to LaTeX is `pandoc -s input-file.md -o output-file.tex`.
 - Check out this [markdown](https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents) package. 
+- `scrartcl`
