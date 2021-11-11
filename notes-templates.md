@@ -7,3 +7,4 @@
 - [Texwork](https://github.com/qwinters/texwork-template/tree/main/templates)
 - https://github.com/vhbelvadi/LaTeX-lecture-notes-class
 - For HW: https://github.com/jstrieb/homework-template?x=y
+- For posters: https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template
