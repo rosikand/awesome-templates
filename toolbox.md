@@ -14,3 +14,4 @@ I plan to use this space to jot down useful LaTeX commands, tips, tricks, and mo
 - Check out this [markdown](https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents) package. 
 - `scrartcl`
 - https://github.com/sloisel/pyptex
+- kpfonts provides some nice serif fonts
