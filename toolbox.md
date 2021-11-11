@@ -13,3 +13,4 @@ I plan to use this space to jot down useful LaTeX commands, tips, tricks, and mo
   - The command for any file type to LaTeX is `pandoc -s input-file.md -o output-file.tex`.
 - Check out this [markdown](https://www.overleaf.com/learn/how-to/Writing_Markdown_in_LaTeX_Documents) package. 
 - `scrartcl`
+- https://github.com/sloisel/pyptex
