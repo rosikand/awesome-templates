@@ -7,5 +7,6 @@
 - [This style manuscript](https://web.stanford.edu/~boyd/papers/pdf/resource_alloc.pdf)
 - ACL ([example](https://arxiv.org/pdf/2104.08696.pdf))
 - Style from [this](https://arxiv.org/abs/1702.01284) paper 
+- My current favorite: [MELBA](https://github.com/melba-journal/submission)
 
 A note: you can obtain the LaTeX source from an Arxiv paper via clicking "other formats" from the abstract page -- > download source --> running `tar -xvf (arxiv id here)`. 
